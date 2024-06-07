@@ -1,3 +1,7 @@
+mark = float(input("Whats your mark"))
+total = int(input("Whats the total"))
+
+
 
 perc = mark/total*100
 roundperc = round(perc, 2) # DO THIS INSTEAD OF WRITING "round(perc,2)" IN EVERY SINGLE print IT IS SOOO MUCH MORE CLEAN
