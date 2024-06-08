@@ -41,5 +41,4 @@ for x in range(0,repeattimes):
     time.sleep(delay)
     os.system('cls')
     print("o")
-
 input('Press ENTER to exit')
