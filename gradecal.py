@@ -27,3 +27,5 @@ else:
 if(markneed == 0.0 or 0):
     print("YOU PERFECTED THAT!! (〜^∇^)〜")
 print("-------ALL RESULTS ARE ROUNDED TO 2 DECIMAL PLACES-------")
+
+input('Press ENTER to exit')
