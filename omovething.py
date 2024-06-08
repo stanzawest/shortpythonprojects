@@ -42,3 +42,4 @@ for x in range(0,repeattimes):
     os.system('cls')
     print("o")
 
+input('Press ENTER to exit')
